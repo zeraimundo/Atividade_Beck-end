@@ -1,0 +1,16 @@
+
+
+### Memória
+GET http://localhost:3000/info/memory
+
+### CPU
+GET http://localhost:3000/info/cpu
+
+### Rede
+GET http://localhost:3000/info/net
+
+### OS
+GET http://localhost:3000/info/os
+
+### HD
+GET http://localhost:3000/info/vol
